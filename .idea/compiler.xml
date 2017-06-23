@@ -32,30 +32,35 @@
         <module name="ls-monitor" />
         <module name="ls-pay" />
         <module name="ls-upms" />
+        <module name="ls-zhibo-common" />
         <module name="ls-zhibo-common (1)" />
         <module name="ls-zhibo-common (2)" />
+        <module name="ls-zhibo-dao" />
+        <module name="ls-zhibo-rpc-api" />
+        <module name="ls-zhibo-rpc-service" />
+        <module name="ls-zhibo-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="ls" target="1.5" />
-      <module name="ls-admin" target="1.5" />
-      <module name="ls-api" target="1.5" />
-      <module name="ls-cache" target="1.5" />
-      <module name="ls-common" target="1.5" />
-      <module name="ls-config" target="1.5" />
-      <module name="ls-dianbo" target="1.5" />
-      <module name="ls-log" target="1.5" />
-      <module name="ls-monitor" target="1.5" />
-      <module name="ls-pay" target="1.5" />
-      <module name="ls-upms" target="1.5" />
-      <module name="ls-zhibo" target="1.5" />
-      <module name="ls-zhibo-common" target="1.5" />
+      <module name="ls" target="1.8" />
+      <module name="ls-admin" target="1.8" />
+      <module name="ls-api" target="1.8" />
+      <module name="ls-cache" target="1.8" />
+      <module name="ls-common" target="1.8" />
+      <module name="ls-config" target="1.8" />
+      <module name="ls-dianbo" target="1.8" />
+      <module name="ls-log" target="1.8" />
+      <module name="ls-monitor" target="1.8" />
+      <module name="ls-pay" target="1.8" />
+      <module name="ls-upms" target="1.8" />
+      <module name="ls-zhibo" target="1.8" />
+      <module name="ls-zhibo-common" target="1.8" />
       <module name="ls-zhibo-common (1)" target="1.5" />
       <module name="ls-zhibo-common (2)" target="1.5" />
-      <module name="ls-zhibo-dao" target="1.5" />
-      <module name="ls-zhibo-rpc-api" target="1.5" />
-      <module name="ls-zhibo-rpc-service" target="1.5" />
-      <module name="ls-zhibo-web" target="1.5" />
+      <module name="ls-zhibo-dao" target="1.8" />
+      <module name="ls-zhibo-rpc-api" target="1.8" />
+      <module name="ls-zhibo-rpc-service" target="1.8" />
+      <module name="ls-zhibo-web" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

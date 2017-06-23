@@ -14,6 +14,14 @@
       <module fileurl="file://$PROJECT_DIR$/ls-pay/ls-pay.iml" filepath="$PROJECT_DIR$/ls-pay/ls-pay.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-upms/ls-upms.iml" filepath="$PROJECT_DIR$/ls-upms/ls-upms.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo.iml" filepath="$PROJECT_DIR$/ls-zhibo/ls-zhibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo-common/ls-zhibo-common.iml" filepath="$PROJECT_DIR$/ls-zhibo/ls-zhibo-common/ls-zhibo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-zhibo-common/ls-zhibo-common.iml" filepath="$PROJECT_DIR$/ls-zhibo-common/ls-zhibo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-zhibo-common/ls-zhibo-common.iml" filepath="$PROJECT_DIR$/ls-zhibo-common/ls-zhibo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo-dao/ls-zhibo-dao.iml" filepath="$PROJECT_DIR$/ls-zhibo/ls-zhibo-dao/ls-zhibo-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-zhibo-dao/ls-zhibo-dao.iml" filepath="$PROJECT_DIR$/ls-zhibo-dao/ls-zhibo-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo-rpc-api/ls-zhibo-rpc-api.iml" filepath="$PROJECT_DIR$/ls-zhibo/ls-zhibo-rpc-api/ls-zhibo-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo-rpc-service/ls-zhibo-rpc-service.iml" filepath="$PROJECT_DIR$/ls-zhibo/ls-zhibo-rpc-service/ls-zhibo-rpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo-web/ls-zhibo-web.iml" filepath="$PROJECT_DIR$/ls-zhibo/ls-zhibo-web/ls-zhibo-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-zhibo-web/ls-zhibo-web.iml" filepath="$PROJECT_DIR$/ls-zhibo-web/ls-zhibo-web.iml" />
     </modules>
   </component>
