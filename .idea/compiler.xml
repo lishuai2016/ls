@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="ls-admin" />
+        <module name="ls-api" />
+        <module name="ls-cache" />
+        <module name="ls-common" />
+        <module name="ls-config" />
+        <module name="ls-dianbo" />
+        <module name="ls-log" />
+        <module name="ls-monitor" />
+        <module name="ls-pay" />
+        <module name="ls-upms" />
+        <module name="ls-zhibo-common (1)" />
+        <module name="ls-zhibo-common (2)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ls" target="1.5" />
+      <module name="ls-admin" target="1.5" />
+      <module name="ls-api" target="1.5" />
+      <module name="ls-cache" target="1.5" />
+      <module name="ls-common" target="1.5" />
+      <module name="ls-config" target="1.5" />
+      <module name="ls-dianbo" target="1.5" />
+      <module name="ls-log" target="1.5" />
+      <module name="ls-monitor" target="1.5" />
+      <module name="ls-pay" target="1.5" />
+      <module name="ls-upms" target="1.5" />
+      <module name="ls-zhibo" target="1.5" />
+      <module name="ls-zhibo-common" target="1.5" />
+      <module name="ls-zhibo-common (1)" target="1.5" />
+      <module name="ls-zhibo-common (2)" target="1.5" />
+      <module name="ls-zhibo-dao" target="1.5" />
+      <module name="ls-zhibo-rpc-api" target="1.5" />
+      <module name="ls-zhibo-rpc-service" target="1.5" />
+      <module name="ls-zhibo-web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

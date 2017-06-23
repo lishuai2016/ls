@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ls.iml" filepath="$PROJECT_DIR$/ls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-admin/ls-admin.iml" filepath="$PROJECT_DIR$/ls-admin/ls-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-api/ls-api.iml" filepath="$PROJECT_DIR$/ls-api/ls-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-cache/ls-cache.iml" filepath="$PROJECT_DIR$/ls-cache/ls-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-common/ls-common.iml" filepath="$PROJECT_DIR$/ls-common/ls-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-config/ls-config.iml" filepath="$PROJECT_DIR$/ls-config/ls-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-dianbo/ls-dianbo.iml" filepath="$PROJECT_DIR$/ls-dianbo/ls-dianbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-log/ls-log.iml" filepath="$PROJECT_DIR$/ls-log/ls-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-monitor/ls-monitor.iml" filepath="$PROJECT_DIR$/ls-monitor/ls-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-pay/ls-pay.iml" filepath="$PROJECT_DIR$/ls-pay/ls-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-upms/ls-upms.iml" filepath="$PROJECT_DIR$/ls-upms/ls-upms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo.iml" filepath="$PROJECT_DIR$/ls-zhibo/ls-zhibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-zhibo-web/ls-zhibo-web.iml" filepath="$PROJECT_DIR$/ls-zhibo-web/ls-zhibo-web.iml" />
+    </modules>
+  </component>
+</project>

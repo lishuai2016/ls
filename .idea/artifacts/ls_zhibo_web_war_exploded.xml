@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ls-zhibo-web:war exploded">
+    <output-path>$PROJECT_DIR$/ls-zhibo/ls-zhibo-web/target/ls-zhibo-web</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ls-zhibo-web" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/ls-zhibo/ls-zhibo-web/target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="ls-zhibo-web/web/Web" />
+    </root>
+  </artifact>
+</component>

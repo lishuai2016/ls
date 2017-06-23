@@ -1,0 +1,36 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <groupId>com.bupt</groupId>
+  <artifactId>lishuai</artifactId>
+  <version>1.0.0</version>
+  <packaging>pom</packaging>
+
+  <name>lishuai</name>
+  <url>http://maven.apache.org</url>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+
+
+  <modules>
+    <module>ls-zhibo</module>
+    <module>ls-log</module>
+    <module>ls-common</module>
+    <module>ls-cache</module>
+    <module>ls-pay</module>
+    <module>ls-config</module>
+    <module>ls-upms</module>
+    <module>ls-api</module>
+    <module>ls-admin</module>
+    <module>ls-monitor</module>
+    <module>ls-dianbo</module>
+  </modules>
+
+
+
+
+</project>

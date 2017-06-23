@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ls-zhibo-web:war">
+    <output-path>$PROJECT_DIR$/ls-zhibo/ls-zhibo-web/target</output-path>
+    <root id="archive" name="ls-zhibo-web.war">
+      <element id="artifact" artifact-name="ls-zhibo-web:war exploded" />
+    </root>
+  </artifact>
+</component>
