@@ -22,7 +22,6 @@
 
   <modules>
     <module>ls-common</module>
-
     <module>ls-pay</module>
     <module>ls-config</module>
     <module>ls-upms</module>
