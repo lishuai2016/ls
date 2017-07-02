@@ -22,6 +22,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="ls-admin" />
         <module name="ls-admin-ui" />
         <module name="ls-api" />
         <module name="ls-caches" />
@@ -34,6 +35,7 @@
         <module name="ls-upms-api" />
         <module name="ls-upms-common" />
         <module name="ls-upms-dao" />
+        <module name="ls-xiaozhibo-common" />
         <module name="ls-zhibo-common" />
         <module name="ls-zhibo-common (1)" />
         <module name="ls-zhibo-common (2)" />
@@ -62,6 +64,8 @@
       <module name="ls-upms-api" target="1.8" />
       <module name="ls-upms-common" target="1.8" />
       <module name="ls-upms-dao" target="1.8" />
+      <module name="ls-xiaozhibo" target="1.8" />
+      <module name="ls-xiaozhibo-common" target="1.8" />
       <module name="ls-zhibo" target="1.8" />
       <module name="ls-zhibo-common" target="1.8" />
       <module name="ls-zhibo-dao" target="1.8" />

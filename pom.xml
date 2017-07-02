@@ -32,6 +32,8 @@
     <module>ls-logs</module>
     <module>ls-caches</module>
     <module>ls-monitors</module>
+    <module>ls-xiaozhibo</module>
+
 
   </modules>
 

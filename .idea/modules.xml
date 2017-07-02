@@ -16,6 +16,9 @@
       <module fileurl="file://$PROJECT_DIR$/ls-upms/ls-upms-api/ls-upms-api.iml" filepath="$PROJECT_DIR$/ls-upms/ls-upms-api/ls-upms-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-upms/ls-upms-common/ls-upms-common.iml" filepath="$PROJECT_DIR$/ls-upms/ls-upms-common/ls-upms-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-upms/ls-upms-dao/ls-upms-dao.iml" filepath="$PROJECT_DIR$/ls-upms/ls-upms-dao/ls-upms-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-xiaozhibo/ls-xiaozhibo.iml" filepath="$PROJECT_DIR$/ls-xiaozhibo/ls-xiaozhibo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-xiaozhibo/ls-xiaozhibo-common/ls-xiaozhibo-common.iml" filepath="$PROJECT_DIR$/ls-xiaozhibo/ls-xiaozhibo-common/ls-xiaozhibo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-xiaozhibo-common/ls-xiaozhibo-common.iml" filepath="$PROJECT_DIR$/ls-xiaozhibo-common/ls-xiaozhibo-common.iml" />
     </modules>
   </component>
 </project>
