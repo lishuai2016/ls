@@ -41,12 +41,12 @@
         <module name="ls-zhibo-web" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="1.8">
       <module name="ls" target="1.8" />
       <module name="ls-admin" target="1.8" />
       <module name="ls-api" target="1.8" />
       <module name="ls-cache" target="1.8" />
-      <module name="ls-common" target="1.8" />
+      <module name="ls-common" target="1.7" />
       <module name="ls-config" target="1.8" />
       <module name="ls-dianbo" target="1.8" />
       <module name="ls-log" target="1.8" />
@@ -55,8 +55,6 @@
       <module name="ls-upms" target="1.8" />
       <module name="ls-zhibo" target="1.8" />
       <module name="ls-zhibo-common" target="1.8" />
-      <module name="ls-zhibo-common (1)" target="1.5" />
-      <module name="ls-zhibo-common (2)" target="1.5" />
       <module name="ls-zhibo-dao" target="1.8" />
       <module name="ls-zhibo-rpc-api" target="1.8" />
       <module name="ls-zhibo-rpc-service" target="1.8" />
