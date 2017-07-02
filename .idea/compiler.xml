@@ -22,17 +22,18 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="ls-admin" />
         <module name="ls-admin-ui" />
         <module name="ls-api" />
-        <module name="ls-cache" />
+        <module name="ls-caches" />
         <module name="ls-common" />
         <module name="ls-config" />
         <module name="ls-dianbo" />
-        <module name="ls-log" />
-        <module name="ls-monitor" />
+        <module name="ls-logs" />
+        <module name="ls-monitors" />
         <module name="ls-pay" />
-        <module name="ls-upms" />
+        <module name="ls-upms-api" />
+        <module name="ls-upms-common" />
+        <module name="ls-upms-dao" />
         <module name="ls-zhibo-common" />
         <module name="ls-zhibo-common (1)" />
         <module name="ls-zhibo-common (2)" />
@@ -48,13 +49,19 @@
       <module name="ls-admin-ui" target="1.8" />
       <module name="ls-api" target="1.6" />
       <module name="ls-cache" target="1.8" />
+      <module name="ls-caches" target="1.8" />
       <module name="ls-common" target="1.8" />
       <module name="ls-config" target="1.8" />
       <module name="ls-dianbo" target="1.8" />
       <module name="ls-log" target="1.8" />
+      <module name="ls-logs" target="1.8" />
       <module name="ls-monitor" target="1.8" />
+      <module name="ls-monitors" target="1.8" />
       <module name="ls-pay" target="1.8" />
       <module name="ls-upms" target="1.8" />
+      <module name="ls-upms-api" target="1.8" />
+      <module name="ls-upms-common" target="1.8" />
+      <module name="ls-upms-dao" target="1.8" />
       <module name="ls-zhibo" target="1.8" />
       <module name="ls-zhibo-common" target="1.8" />
       <module name="ls-zhibo-dao" target="1.8" />

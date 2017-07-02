@@ -21,18 +21,18 @@
 
 
   <modules>
-    <module>ls-zhibo</module>
-    <module>ls-log</module>
     <module>ls-common</module>
-    <module>ls-cache</module>
+
     <module>ls-pay</module>
     <module>ls-config</module>
     <module>ls-upms</module>
     <module>ls-api</module>
-    <module>ls-admin</module>
-    <module>ls-monitor</module>
     <module>ls-dianbo</module>
     <module>ls-admin-ui</module>
+    <module>ls-logs</module>
+    <module>ls-caches</module>
+    <module>ls-monitors</module>
+
   </modules>
 
 

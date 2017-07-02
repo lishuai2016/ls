@@ -9,10 +9,15 @@
 
     <groupId>com.bupt</groupId>
     <artifactId>ls-upms</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>ls-upms</name>
     <url>http://maven.apache.org</url>
+    <modules>
+        <module>ls-upms-common</module>
+        <module>ls-upms-dao</module>
+        <module>ls-upms-api</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

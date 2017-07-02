@@ -5,20 +5,18 @@
     <file url="file://$PROJECT_DIR$/ls-admin" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-admin-ui" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ls-cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ls-caches" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-config" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-dianbo" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ls-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ls-logs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ls-monitors" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-pay" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-upms" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ls-zhibo" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo-common" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo-dao" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo-rpc-api" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo-rpc-service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ls-zhibo/ls-zhibo-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ls-upms/ls-upms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ls-upms/ls-upms-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ls-upms/ls-upms-dao" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
