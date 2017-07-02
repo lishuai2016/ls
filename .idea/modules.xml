@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ls.iml" filepath="$PROJECT_DIR$/ls.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-admin/ls-admin.iml" filepath="$PROJECT_DIR$/ls-admin/ls-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-admin-ui/ls-admin-ui.iml" filepath="$PROJECT_DIR$/ls-admin-ui/ls-admin-ui.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-api/ls-api.iml" filepath="$PROJECT_DIR$/ls-api/ls-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-cache/ls-cache.iml" filepath="$PROJECT_DIR$/ls-cache/ls-cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-common/ls-common.iml" filepath="$PROJECT_DIR$/ls-common/ls-common.iml" />

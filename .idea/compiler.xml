@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="ls-admin" />
+        <module name="ls-admin-ui" />
         <module name="ls-api" />
         <module name="ls-cache" />
         <module name="ls-common" />
@@ -44,6 +45,7 @@
     <bytecodeTargetLevel target="1.8">
       <module name="ls" target="1.8" />
       <module name="ls-admin" target="1.8" />
+      <module name="ls-admin-ui" target="1.8" />
       <module name="ls-api" target="1.6" />
       <module name="ls-cache" target="1.8" />
       <module name="ls-common" target="1.8" />

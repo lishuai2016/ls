@@ -6,19 +6,7 @@
     <groupId>com.bupt</groupId>
     <artifactId>ls-zhibo</artifactId>
     <version>1.0.0</version>
-    <modules>
-        <module>ls-zhibo-common</module>
-        <module>ls-zhibo-dao</module>
-        <module>ls-zhibo-rpc-api</module>
-        <module>ls-zhibo-rpc-service</module>
-        <module>ls-zhibo-web</module>
-    </modules>
     <packaging>pom</packaging>
-
-
-
-
-
 
     <name>ls-zhibo</name>
     <url>http://maven.apache.org</url>
@@ -30,5 +18,16 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
     </properties>
+
+    <modules>
+        <module>ls-zhibo-common</module>
+        <module>ls-zhibo-dao</module>
+        <module>ls-zhibo-rpc-api</module>
+        <module>ls-zhibo-rpc-service</module>
+        <module>ls-zhibo-web</module>
+    </modules>
+
+
+
 
 </project>

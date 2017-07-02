@@ -32,6 +32,7 @@
     <module>ls-admin</module>
     <module>ls-monitor</module>
     <module>ls-dianbo</module>
+    <module>ls-admin-ui</module>
   </modules>
 
 

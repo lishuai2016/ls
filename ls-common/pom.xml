@@ -13,16 +13,16 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+        <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
+
         <mybatis-spring-boot>1.2.0</mybatis-spring-boot>
         <spring-boot-starter-redis-version>1.3.2.RELEASE</spring-boot-starter-redis-version>
         <dubbo-spring-boot>1.0.0</dubbo-spring-boot>
 
 
         <mysql-connector>5.1.39</mysql-connector>
-        <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
-        <maven.compiler.compilerVersion>1.8</maven.compiler.compilerVersion>
-
         <spring.version>4.3.7.RELEASE</spring.version>
         <spring-security.version>4.1.3.RELEASE</spring-security.version>
 
@@ -37,56 +37,56 @@
     </properties>
 
     <!-- Spring Boot 启动父依赖 -->
-    <parent>
+   <!-- <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
         <version>1.5.1.RELEASE</version>
-    </parent>
+    </parent>-->
 
     <dependencies>
         <!-- Spring Boot Web 依赖 -->
-        <dependency>
+       <!-- <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
-        </dependency>
+        </dependency>-->
 
         <!-- Spring Boot Test 依赖 -->
-        <dependency>
+      <!--  <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
-        </dependency>
+        </dependency>-->
 
         <!-- Spring Boot Mybatis 依赖 -->
-        <dependency>
+        <!--<dependency>
             <groupId>org.mybatis.spring.boot</groupId>
             <artifactId>mybatis-spring-boot-starter</artifactId>
             <version>${mybatis-spring-boot}</version>
-        </dependency>
+        </dependency>-->
 
         <!-- Spring Boot Redis 依赖 -->
-        <dependency>
+        <!--<dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-redis</artifactId>
             <version>${spring-boot-starter-redis-version}</version>
-        </dependency>
+        </dependency>-->
         <!-- Spring Boot Data Cache 依赖 -->
-        <dependency>
+       <!-- <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-cache</artifactId>
-        </dependency>
+        </dependency>-->
 
         <!-- Spring Boot Data Redis 依赖 -->
-        <dependency>
+        <!--<dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-redis</artifactId>
-        </dependency>
+        </dependency>-->
 
         <!-- Spring Boot Elasticsearch 依赖 -->
-        <dependency>
+       <!-- <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-data-elasticsearch</artifactId>
-        </dependency>
+        </dependency>-->
 
         <!-- Spring Boot Dubbo 依赖 -->
       <!--  <dependency>

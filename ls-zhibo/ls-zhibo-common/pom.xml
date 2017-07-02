@@ -9,9 +9,13 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.bupt</groupId>
+
     <artifactId>ls-zhibo-common</artifactId>
     <packaging>jar</packaging>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 
     <dependencies>
         <dependency>
@@ -20,7 +24,6 @@
             <version>1.0.0</version>
             <type>jar</type>
         </dependency>
-
     </dependencies>
 
     <build>
