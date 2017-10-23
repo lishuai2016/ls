@@ -28,6 +28,9 @@
         <module name="ls-caches" />
         <module name="ls-common" />
         <module name="ls-config" />
+        <module name="ls-demo-api" />
+        <module name="ls-demo-common" />
+        <module name="ls-demo-dao" />
         <module name="ls-dianbo" />
         <module name="ls-logs" />
         <module name="ls-monitors" />
@@ -54,6 +57,10 @@
       <module name="ls-caches" target="1.8" />
       <module name="ls-common" target="1.8" />
       <module name="ls-config" target="1.8" />
+      <module name="ls-demo" target="1.8" />
+      <module name="ls-demo-api" target="1.8" />
+      <module name="ls-demo-common" target="1.8" />
+      <module name="ls-demo-dao" target="1.8" />
       <module name="ls-dianbo" target="1.8" />
       <module name="ls-log" target="1.8" />
       <module name="ls-logs" target="1.8" />

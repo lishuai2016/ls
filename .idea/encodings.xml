@@ -7,6 +7,10 @@
     <file url="file://$PROJECT_DIR$/ls-caches" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ls-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ls-demo/ls-demo-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ls-demo/ls-demo-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ls-demo/ls-demo-dao" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-dianbo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-logs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ls-monitors" charset="UTF-8" />

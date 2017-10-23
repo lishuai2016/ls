@@ -8,6 +8,10 @@
       <module fileurl="file://$PROJECT_DIR$/ls-caches/ls-caches.iml" filepath="$PROJECT_DIR$/ls-caches/ls-caches.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-common/ls-common.iml" filepath="$PROJECT_DIR$/ls-common/ls-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-config/ls-config.iml" filepath="$PROJECT_DIR$/ls-config/ls-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-demo/ls-demo.iml" filepath="$PROJECT_DIR$/ls-demo/ls-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-demo/ls-demo-api/ls-demo-api.iml" filepath="$PROJECT_DIR$/ls-demo/ls-demo-api/ls-demo-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-demo/ls-demo-common/ls-demo-common.iml" filepath="$PROJECT_DIR$/ls-demo/ls-demo-common/ls-demo-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-demo/ls-demo-dao/ls-demo-dao.iml" filepath="$PROJECT_DIR$/ls-demo/ls-demo-dao/ls-demo-dao.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-dianbo/ls-dianbo.iml" filepath="$PROJECT_DIR$/ls-dianbo/ls-dianbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-logs/ls-logs.iml" filepath="$PROJECT_DIR$/ls-logs/ls-logs.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-monitors/ls-monitors.iml" filepath="$PROJECT_DIR$/ls-monitors/ls-monitors.iml" />
@@ -16,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/ls-upms/ls-upms-api/ls-upms-api.iml" filepath="$PROJECT_DIR$/ls-upms/ls-upms-api/ls-upms-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-upms/ls-upms-common/ls-upms-common.iml" filepath="$PROJECT_DIR$/ls-upms/ls-upms-common/ls-upms-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-upms/ls-upms-dao/ls-upms-dao.iml" filepath="$PROJECT_DIR$/ls-upms/ls-upms-dao/ls-upms-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-xiaozhibo/ls-xiaozhibo.iml" filepath="$PROJECT_DIR$/ls-xiaozhibo/ls-xiaozhibo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-xiaozhibo/ls-xiaozhibo-common/ls-xiaozhibo-common.iml" filepath="$PROJECT_DIR$/ls-xiaozhibo/ls-xiaozhibo-common/ls-xiaozhibo-common.iml" />
     </modules>
   </component>

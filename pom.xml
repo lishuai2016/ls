@@ -32,7 +32,7 @@
     <module>ls-caches</module>
     <module>ls-monitors</module>
     <module>ls-xiaozhibo</module>
-
+    <module>ls-demo</module>
 
   </modules>
 
