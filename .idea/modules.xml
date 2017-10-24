@@ -12,6 +12,9 @@
       <module fileurl="file://$PROJECT_DIR$/ls-demo/ls-demo-api/ls-demo-api.iml" filepath="$PROJECT_DIR$/ls-demo/ls-demo-api/ls-demo-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-demo/ls-demo-common/ls-demo-common.iml" filepath="$PROJECT_DIR$/ls-demo/ls-demo-common/ls-demo-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-demo/ls-demo-dao/ls-demo-dao.iml" filepath="$PROJECT_DIR$/ls-demo/ls-demo-dao/ls-demo-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-demo/ls-demo-rpc-api/ls-demo-rpc-api.iml" filepath="$PROJECT_DIR$/ls-demo/ls-demo-rpc-api/ls-demo-rpc-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-demo/ls-demo-rpc-service/ls-demo-rpc-service.iml" filepath="$PROJECT_DIR$/ls-demo/ls-demo-rpc-service/ls-demo-rpc-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ls-demo/ls-demo-rpc-web/ls-demo-rpc-web.iml" filepath="$PROJECT_DIR$/ls-demo/ls-demo-rpc-web/ls-demo-rpc-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-dianbo/ls-dianbo.iml" filepath="$PROJECT_DIR$/ls-dianbo/ls-dianbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-logs/ls-logs.iml" filepath="$PROJECT_DIR$/ls-logs/ls-logs.iml" />
       <module fileurl="file://$PROJECT_DIR$/ls-monitors/ls-monitors.iml" filepath="$PROJECT_DIR$/ls-monitors/ls-monitors.iml" />
